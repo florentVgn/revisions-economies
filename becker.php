@@ -1,9 +1,9 @@
 <!-- === BEGIN HEADER === -->
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if IE 8]> <html lang="fr" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="fr" class="ie9"> <![endif]-->
 <!--[if !IE]><!-->
-<html lang="en">
+<html lang="fr">
     <!--<![endif]-->
     <head>
         <!-- Title -->
@@ -49,7 +49,7 @@
                             <ul id="hornavmenu" class="nav navbar-nav">
                                 <li>
                                     <a href="index.html" class="fa-home active">Accueil</a>
-                                </li> 
+                                </li>
 								<li>
                                                                         <a href="menuAuteurs.html" class="fa-briefcase">Les Auteurs</a>
                                 </li>
@@ -84,7 +84,7 @@
                         <h2 class="margin-bottom-20">GARY STANLEY BECKER(1930–2014)</h2>
                         <!-- Intro / Why Us? -->
                         <div class="row">
-					
+
 							<div class="col-md-8 animate fadeInLeft">
 								<h3>PROFESSION:</h3>
 									<p>Economiste americain</p>
@@ -96,15 +96,15 @@
                             </div>
                         </div>
                         <!-- End Intro / Why Us? -->
-                        
+
                         <!-- Top Panels -->
-                       
+
                         <hr class="margin-top-3	0">
                         <!-- Middle Text -->
                         <div class="row">
                             <div class="col-md-12 text-center margin-top-10 animate fadeInUp">
                                 <h2 class="text-center margin-top-10">“L'idéal n'est pas de rendre les riches pauvres, mais de rendre les pauvres riches ”</h2>
-                                
+
                             </div>
                         </div>
                         <!-- End Middle Text -->
@@ -122,14 +122,14 @@
                     <div class="col-md-8 margin-bottom-30">
                         <h3 class="margin-bottom-10">Description du mouvement:</h3>
                         <p>L'école néoclassique est un terme générique utilisé pour désigner plusieurs courants économiques qui étudient la formation des prix, de la production et de la distribution des revenus à travers le mécanisme d'offre et de demande sur un marché.</p>
-                            
+
                     </div>
                     <!-- End Disclaimer -->
-               
+
                 </div>
             </div>
         </div>
-       
+
             <!-- JS -->
             <script type="text/javascript" src="assets/js/jquery.min.js" type="text/javascript"></script>
             <script type="text/javascript" src="assets/js/bootstrap.min.js" type="text/javascript"></script>
